@@ -2,11 +2,11 @@
 
 2. 13 = [Ya Boy Kongming Opening Full [Chitty Chitty Bang Bang - QUEENDOM]](https://youtu.be/piEyKyJ4pFg)
 
-3. blocks = [judul](link)
+3. blocks = [A Man Without Love](https://youtu.be/S2ujotDMluo)
 
 4. cat = [Fur - If You Know That I'm Lonely ( Feel Koplo Edit ) awas dangdut](https://youtu.be/KDHB8cA_UYQ)
 
-5. chirp = [judul](link)
+5. chirp = [NDX aka - Kelingan Mantan](https://youtu.be/7X6_q9yWeng)
 
 6. far = [judul](link)
 
