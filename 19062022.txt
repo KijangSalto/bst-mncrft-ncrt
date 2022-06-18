@@ -1,0 +1,18 @@
+=> Penggantian currency untuk membeli persenjataan dari **iron ingot** menjadi *copper ingot**.
+=> Penambahan "stak" untuk ammo.
+=> Perubahan nama senjata menjadi lebih simpel.
+=> Stim, medkit, granade, flashbang, dan smoke bomb sekarang bisa di "stak".
+=> Nerf damage equipment addon.
+=> Penyesuaian & bugfix **Custom JukeBox**
+=> Penggantian model kunang-kunang menjadi seperti base model dari mojang (2px).
+
+》Damage
+Kali Stick: 10 => 5 
+Balisong: 10 => 7
+Knife: 10 => 7
+
+》Stak
+Medkit: 1 => 5
+Stim: 1 => 5
+Semua magazine: 5 => 7
+Granade, Flashbang,  dan smokebomb: 1 => 3
