@@ -1,3 +1,6 @@
+### Update Patch (19062022)
+[Cek Full Info](https://github.com/KijangSalto/bst-mncrft-ncrt/blob/main/19062022.txt)
+### List Custom Jukebox
 1. 11 = [Two Han Princess Oishii Two han Seikatsu](https://youtu.be/4dbcsTEeBZs)
 
 2. 13 = [Ya Boy Kongming Opening Full [Chitty Chitty Bang Bang - QUEENDOM]](https://youtu.be/piEyKyJ4pFg)
